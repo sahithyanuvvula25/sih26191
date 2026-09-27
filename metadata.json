@@ -1,0 +1,6 @@
+{
+  "name": "Bhoosethu",
+  "description": "Bhoosethu – GIS-Based Disaster Risk & Relocation Decision Support System for identifying hazard-based Red Zones, assessing vulnerable habitations, and evaluating safer relocation sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
